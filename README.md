@@ -8,6 +8,6 @@ This config should work with almost all of the default servo drive settings and 
 ![Manual Page 12-19](img/Default_pdo_mappings_delta_asda_b3_e.png?raw=true "Manual Page 12-19")
 ![Manual Page 12-20](img/Default_pdo_mappings_delta_asda_b3_e_1.png?raw=true "Manual Page 12-20")
 
-### Default PDO Mappings Info (Manual Pages: 12-27, 12-28)
-![Manual Page 12-27](img/Default_pdo_mappings_delta_asda_b3_e_info.png?raw=true "Manual Page 12-27")
-![Manual Page 12-28](img/Default_pdo_mappings_delta_asda_b3_e_info_1.png?raw=true "Manual Page 12-28")
+### Default PDO Mappings Info (Manual Pages: 12-47, 12-48)
+![Manual Page 12-47](img/Default_pdo_mappings_delta_asda_b3_e_info.png?raw=true "Manual Page 12-47")
+![Manual Page 12-48](img/Default_pdo_mappings_delta_asda_b3_e_info_1.png?raw=true "Manual Page 12-48")
