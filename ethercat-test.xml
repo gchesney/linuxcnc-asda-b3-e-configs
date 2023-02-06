@@ -10,7 +10,7 @@
                     <pdoEntry idx="60FF" subIdx="00" bitLen="32" halPin="target-velocity" halType="s32" />
                     <pdoEntry idx="6071" subIdx="00" bitLen="16" halPin="target-torque" halType="s32" />
                     <pdoEntry idx="6060" subIdx="00" bitLen="8" halPin="opmode" halType="s32" />
-                    <pdoEntry idx="60B8" subIdx="00" bitLen="16" halPin="opmode" halType="u32" />
+                    <pdoEntry idx="60B8" subIdx="00" bitLen="16" halPin="touch-probe-setting" halType="u32" />
 
                 </pdo>
             </syncManager>
@@ -23,7 +23,7 @@
                     <pdoEntry idx="6061" subIdx="00" bitLen="8" halPin="opmode-display" halType="s32" />
                     <pdoEntry idx="60B9" subIdx="00" bitLen="16" halPin="touch-probe-status" halType="u32" />
                     <pdoEntry idx="60BA" subIdx="00" bitLen="32" halPin="touch-probe-pos-1" halType="s32" />
-                    <pdoEntry idx="603F" subIdx="00" bitLen="16" halPin="touch-probe-pos-1" halType="u32" />
+                    <pdoEntry idx="603F" subIdx="00" bitLen="16" halPin="error-code" halType="u32" />
                     <pdoEntry idx="60FD" subIdx="00" bitLen="32" halPin="digital-inputs" halType="u32" />
                     
                     <pdoEntry idx="606C" subIdx="00" bitLen="32" halPin="actual-velocity" halType="s32" />
